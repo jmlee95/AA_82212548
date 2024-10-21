@@ -1,9 +1,9 @@
 apiVersion: v1
 kind: Service
 metadata:
-    name: AA_82212548
+    name: aa_82212548
 spec:
     ports:
     - port: 8080 
     selector:
-        app: "AA_82212548"
+        app: "aa_82212548"
