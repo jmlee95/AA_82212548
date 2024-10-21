@@ -11,7 +11,7 @@ name: Java CI with Maven
 on: workflow_dispatch
 
 env:
-  IMAGE_NAME: AA_82212548
+  IMAGE_NAME: aa_82212548
 
 jobs:
   build:
